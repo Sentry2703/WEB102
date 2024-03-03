@@ -76,7 +76,9 @@ const App = () => {
 
       <h2>Quelle est la qualite de vos expressions francaises?</h2>
 
-      <h3>(How good are your french idoms?)</h3>
+      <h3>(How good are your french idoms?) There are {flashcards.length} cards</h3>
+
+      <img src = {FrenchFlag} alt = "French Flag" />
 
       
       <Card flashcards = {flashcards} currentCard = {currentCard} isFront = {isFront}  />
