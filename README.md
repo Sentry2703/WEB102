@@ -7,3 +7,5 @@
 ## Lab 2 - Samosa Clicker
 
 ## Project 2 - flashcards
+
+## Lab 3 - Barista App
